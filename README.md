@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7F&width=435&lines=DSA+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
-  ### 🚀 2nd year B.E. AIML student at Chandigarh University
+  ### 🚀 3rd year B.E. AIML student at Chandigarh University
   Solving problems, one algorithm at a time ✨
 
   <p>
